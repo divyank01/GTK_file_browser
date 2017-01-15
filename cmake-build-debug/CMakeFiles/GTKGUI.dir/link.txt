@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/GTKGUI.dir/main.cpp.o CMakeFiles/GTKGUI.dir/welcome_page.cpp.o  -o GTKGUI /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 
